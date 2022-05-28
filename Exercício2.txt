@@ -1,0 +1,16 @@
+Resolução | Exercício 2
+
+.Faça um algoritmo para efetuar a troca de um
+pneu furado. 
+
+
+1- Parar o carro num lugar seguro;
+2- Ligar o pisca alerta;
+3- Verificar se tem um estepe cheio;
+4- Pegar ferramentas e sinalizador no porta mala;
+5- Sinalizar a via antes de realizar a troca;
+6- Posicionar o macaco e erguer o carro;
+7- Retirar o pneu furado com a chave de roda,
+8- Substituir o pneu furado pelo estepe cheio;
+9- Guardar o pneu furado, ferramentas e sinalizador;
+10- Seguir viagem. 
