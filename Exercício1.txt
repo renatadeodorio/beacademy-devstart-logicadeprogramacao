@@ -1,0 +1,14 @@
+
+Resolução | Exercício 1
+
+.Descubra a lógica e complete o próximo elemento (GOUVEIA,2022):
+
+A) 1,3,5,7...Resposta:9 (sequência lógica baseada em números ímpares).
+B) 2,4,8,16,32,64...Resposta:128 (sequência lógica que o número posterior 
+sempre será o dobro do anterior).
+C) 0,1,4,9,16,25,36...Resposta:49 (sequência lógica de números elevados ao 
+quadrado).
+D) 4,16,36,64...Resposta:100 (sequência lógica baseada em quadrado dee pares).
+E) 1,1,2,3,5,8...Resposta:13 (sequência lógica da soma dos dois números anteriores).
+F) 2,10,12,16,17,18,19...Resposta:200 (sequência lógica baseada na mesma inicial 
+de números escritos por extenso).
