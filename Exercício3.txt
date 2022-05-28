@@ -1,0 +1,24 @@
+
+Resolução | Exercício 3
+
+• Altere o exemplo visto abaixo para que ao
+invés do nome solicite o endereço da pessoa e
+imprima o endereço na tela. Execute o
+programa e veja se a saída condiz com o
+endereço que você digitou:
+
+
+Resposta:
+
+Algoritmo "ExibeNomeEndereço"
+var nome : caractere
+var endereço : caractere
+
+Inicio
+	escreva("Digite seu nome:")
+	leia(nome)
+	escreva("Seja bem-vindo, " + nome + "! Digite aqui o seu endereço: ")
+	leia(endereco)
+	escreva("O endereço de " + nome + " é: " + endereço!")
+
+Fimalgoritmo
