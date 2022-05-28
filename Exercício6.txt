@@ -1,0 +1,27 @@
+
+Resolução | Exercício 6
+
+Var 
+   nome : caractere
+   idade : inteiro
+
+Inicio
+   escreva("Digite seu nome:")
+   leia(nome)
+   escreva("Digite sua idade:")
+   leia(idade)
+   
+   escreva("Nome: ", nome)
+   escreva("Idade:", idade)
+   
+   escreva("Idade é maior que 18? ", (idade > 18))
+   
+   escreva("Idade é igual a 25? ", NAO(idade <> 25))
+   
+   escreva("Idade é igual a 25 e o nome é Marcos?", NAO(idade <> 25) E (nome = "Marcos"))
+ 
+   escreva("Idade é diferente de 25 ou o nome é Marcos?", (idade <> 25) OU (nome = "Marcos"))
+   
+   escreva("O resto da divisão da idade por 2 é igual a 0?", (idade % 2) = 0)
+
+Fimalgoritmo
