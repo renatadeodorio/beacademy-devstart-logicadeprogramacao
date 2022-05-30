@@ -1,0 +1,30 @@
+Resolução | Exercício 13
+
+Algoritmo "OperacaoDesejada"
+
+Var
+figura-geometrica
+base: real
+altura: real
+reultado1: real
+resultado2: real
+
+Inicio
+ESCREVA ("Escolha uma figura, triangulo ou quadrado")
+LEIA (figura-geometrica)
+ESCREVA ("Digite a base da figura escolhida ")
+LEIA (base)
+ESCREVA ("Digite a altura da figura escolhida: ")
+LEIA (altura)
+ESCOLHA figura-geometrica
+CASO "triangulo"
+resultado1 := (base * base) + (altura * altura)
+resultado2 := base *(altura * altura)
+ESCREVA("O PERIMETRO É ", resultado1, "e sua area é", resultado2)
+CASO "quadrado"
+resultado1 := (base * base) + (altura * altura)
+resultado2 :=  base * altura
+ESCREVA("O PERIMETRO É ", resultado1, "e sua area é", resultado2)
+fimescolha
+
+Fimalgoritmo
