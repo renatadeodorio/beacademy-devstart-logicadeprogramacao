@@ -1,0 +1,30 @@
+
+Resolução | Exercício 8
+
+Algoritmo "SALARIO-MINIMO"
+
+Var
+
+   nome: CARACTERE
+   salario: REAL
+
+Inicio
+
+   escreval("Digite o nome: ")
+   leia(nome)
+   escreval("Digite o salário:")
+   leia(salario)
+   
+   se(salario > 1200) entao
+      escreval(nome ," seu salário é maior que o salário mínimo!!!")
+   senao
+      se(salario = 1200) entao
+         escreval(nome, " seu salário é igual o salário mínimo.")
+         senao
+            escreval(nome, " seu salário é menor que o salário mínimo.")
+            fimse
+                 fimse
+
+   
+
+Fimalgoritmo
